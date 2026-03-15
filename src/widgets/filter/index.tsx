@@ -16,8 +16,15 @@ const filterSections = [
     options: [
       { name: "офис", count: 1400, active: false },
       { name: "удалённо", count: 4500, active: true },
-      { name: "гибрид", count: 1600, active: false },
-      { name: "удалённо по РФ", count: 914, active: false },
+      { name: "стажировка", count: 914, active: false },
+      { name: "преокт", count: 1600, active: false },
+    ],
+  },
+  {
+    label: "город",
+    options: [
+      { name: "Бишкек", count: 0, active: false },
+      { name: "Ош", count: 0, active: false },
     ],
   },
   {
@@ -32,7 +39,7 @@ const filterSections = [
     ],
   },
   {
-    label: "зарплата, ₽",
+    label: "зарплата",
     options: [
       { name: "до 80k", count: 710, active: false },
       { name: "81–150k", count: 907, active: false },
@@ -40,27 +47,21 @@ const filterSections = [
       { name: "250k+", count: 4300, active: false },
     ],
   },
-  {
-    label: "география",
-    options: [
-      { name: "Москва", count: 0, active: false },
-      { name: "Санкт-Петербург", count: 0, active: false },
-    ],
-  },
+
 ];
 
 const FilterContent = () => (
-  <div className="flex flex-col gap-6">
+  <div className="flex flex-col gap-4">
     {filterSections.map((section) => (
-      <div key={section.label} className="flex flex-col gap-3">
+      <div key={section.label} className="flex flex-col gap-2">
         <span className="text-base font-medium text-white">
           {section.label}
         </span>
-        <div className="flex flex-wrap gap-2">
+        <div className="flex flex-wrap gap-1">
           {section.options.map((opt) => (
             <button
               key={opt.name}
-              className={`inline-flex items-center gap-1.5 rounded-[12px] bg-[#2e3035] px-3 py-2 transition-colors cursor-pointer text-white/90 hover:bg-[#3a3c42] ${opt.active
+              className={`inline-flex items-center gap-1.5 rounded-[12px] bg-[#2e3035] px-2 py-[6px] transition-colors cursor-pointer text-white/90 hover:bg-[#3a3c42] ${opt.active
                 ? " bg-[#3a3c42]"
                 : ""
                 }`}
@@ -90,16 +91,16 @@ export function Filter() {
             size={20}
           />
           <input
-            placeholder="figma+photoshop"
-            className="w-full h-[56px] bg-card border-none rounded-[20px] pl-12 pr-4 font-sans text-base text-white placeholder:text-muted-foreground outline-none focus:ring-1  transition-all"
+            placeholder="Должность"
+            className="w-full h-[56px] bg-card border-none rounded-[20px] pl-12 pr-4 font-sans text-base text-white placeholder:text-muted-foreground outline-none transition-all"
           />
         </div>
-        
+
         <Drawer>
           <DrawerTrigger asChild>
-            <Button 
-              variant="outline" 
-              size="icon" 
+            <Button
+              variant="outline"
+              size="icon"
               className="h-[56px] w-[56px] min-w-[56px] shrink-0 bg-card border-none rounded-[20px] hover:bg-card/80 active:scale-95 transition-all"
             >
               <ListFilter className="text-white" size={24} />
@@ -115,7 +116,7 @@ export function Filter() {
                   </Button>
                 </DrawerClose>
               </DrawerHeader>
-              
+
               <div className="flex-1 overflow-y-auto px-6 py-2 pb-10 custom-scrollbar">
                 <FilterContent />
               </div>
@@ -141,10 +142,10 @@ export function Filter() {
             />
             <input
               placeholder="Должность"
-              className="w-full h-11 bg-[#2e3035] border-none rounded-[16px] pl-10 pr-4 font-sans text-base text-white placeholder:text-muted-foreground outline-none focus:ring-1 focus:ring-primary/20 transition-all"
+              className="w-full h-11 bg-[#2e3035] border-none rounded-[16px] pl-10 pr-4 font-sans text-base text-white placeholder:text-muted-foreground outline-none transition-all"
             />
           </div>
-          
+
           <FilterContent />
         </div>
       </aside>

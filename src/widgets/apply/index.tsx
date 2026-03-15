@@ -9,12 +9,14 @@ interface ApplyWidgetProps {
   format: string;
   salaryEstimate: string;
   contacts: Contacts;
+  country?: string;
 }
 
 export function ApplyWidget({
   format,
   salaryEstimate,
   contacts,
+  country
 }: ApplyWidgetProps) {
   return (
     <aside className="w-full lg:w-[300px] shrink-0 lg:sticky top-24">
@@ -26,6 +28,13 @@ export function ApplyWidget({
             <span className="text-sm text-muted-foreground">формат</span>
             <span className="text-base font-medium text-white">{format}</span>
           </div>
+
+          {country && (
+            <div className="flex flex-col gap-0.5">
+              <span className="text-sm text-muted-foreground">город</span>
+              <span className="text-base font-medium text-white">{country}</span>
+            </div>
+          )}
 
 
           <div className="flex flex-col gap-0.5">

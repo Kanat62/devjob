@@ -97,13 +97,24 @@ export async function GET() {
         textWithoutLabel('.job .price') ||
         textWithoutLabel('.price') ||
         ''
-
-      // TYPE
-      const type =
+      // TYPE + COUNTRY
+      const rawType =
         $j('.information .type strong').first().text().trim() ||
         textWithoutLabel('.information .type') ||
         textWithoutLabel('.type') ||
         ''
+
+      let type = ''
+      let country = ''
+
+      if (rawType.includes('/')) {
+        const parts = rawType.split('/')
+        type = parts[0].trim()
+        country = parts[1].trim()
+      } else {
+        type = rawType.trim()
+        country = ''
+      }
 
       // LOGO
       const logo =
@@ -157,6 +168,7 @@ export async function GET() {
         company,
         salary,
         type,
+        country,
         logo,
         description,
         contacts,

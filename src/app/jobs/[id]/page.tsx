@@ -33,9 +33,9 @@ export default async function JobDetailPage({ params }: PageProps) {
             <div className="flex items-center justify-between mb-4">
               <div className="flex items-center gap-2.5">
                 <div
-                  className="h-8 w-8 rounded-[24px] flex items-center justify-center text-white text-xs font-bold shrink-0 overflow-hidden"
+                  className="h-8 w-8 rounded-full flex items-center justify-center text-white  font-bold shrink-0 overflow-hidden"
                 >
-                  {job.logo ? <Image src={job.logo} alt={job.company} width={24} height={24} /> : <span className="h-6 w-6"></span>}
+                  {job.logo ? <Image src={job.logo} className="rounded-full" alt={job.company} width={24} height={24} /> : <span className="rounded-full flex items-center justify-center h-6 w-6 bg-[#fff6d1] text-[#877941]">{job.company[0]}</span>}
                 </div>
                 <span className="font-medium text-white">{job.company}</span>
               </div>
@@ -52,6 +52,7 @@ export default async function JobDetailPage({ params }: PageProps) {
               format={job.type}
               salaryEstimate={job.salary}
               contacts={job.contacts}
+              country={job.country}
             />
           </div>
 

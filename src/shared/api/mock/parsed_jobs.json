@@ -1,115 +1,174 @@
 [
   {
-    "id": "4f5f2bce-4d5b-4ad1-900d-6ed1a936ccdf",
+    "id": "c886929a-0d89-4534-8fc6-6b88b9dfeaff",
+    "title": "Бизнес/системный аналитик (middle/middle+) Управления системного анализа",
+    "company": "ОАО \"Бакай Банк\"",
+    "salary": "От 50000 KGS в месяц",
+    "type": "Офис",
+    "country": "Бишкек",
+    "logo": "https://devkg.com/images/organizations/b29303dd43b3a49c84c3da2adcaf91ec.png",
+    "description": "<p><strong>Обязанности:</strong></p><ul><li>Сбор, анализ и формализация бизнес- и системных требований.</li><li>Подготовка ТЗ, функциональных и нефункциональных требований.</li><li>Разработка Use Cases, User Stories, BPMN, моделей данных (ER/UML).</li><li>Декомпозиция требований и постановка задач команде разработки.</li><li>Участие в проектировании UI/UX и сопровождении полного цикла ИТ-продуктов.</li><li>Участие в тестировании, запуске ПО и контроле устранения дефектов.</li><li>Взаимодействие с бизнесом и IT-командой, ведение задач в Jira/Confluence.</li><li>Поддержка документации, базы знаний, наставничество junior-аналитиков.</li></ul><p><strong>Требования:</strong></p><ul><li>Опыт работы бизнес/системным аналитиком (middle+).</li><li>Навыки работы с большими объемами информации и структурирования требований.</li><li>Грамотная устная и письменная речь.</li><li>Понимание SDLC и процессов тестирования.</li><li>Умение работать в команде и в условиях многозадачности.</li></ul><p><strong>Условия:</strong></p><ul><li>Трудоустройство согласно ТК КР;</li><li>Конкурентная заработная плата + система бонусов;</li><li>Обучение за счет Банка;</li><li>Современный офис в центре города;</li><li>Корпоративные мероприятия (футбол, волейбольные команды, настольный теннис, шахматы) и туристические поездки за счет Банка;</li><li>Стабильная выплата заработной платы 2 раза в месяц;</li><li>Полный социальный пакет;</li><li>Хорошая команда, в которой все работают на результат;</li><li>Опыт работы в крупном и стабильном Банке.</li></ul>",
+    "contacts": {
+      "telegram": "@Dilara2z",
+      "email": "dkydyrmaeva@bakai.kg"
+    },
+    "source_url": "https://devkg.com/ru/jobs/biznes-sistemnyy-analitik-middle-middle-upravleniya-sistemnogo-analiza-oao-bakay-bank-21401",
+    "parsed_at": "2026-03-15T01:23:42.187Z",
+    "created_at": ""
+  },
+  {
+    "id": "e6cd0f0d-3196-4871-bd91-9fdb3f84be7d",
+    "title": "Python Developer (Middle+)",
+    "company": "ОАО \"Бакай Банк\"",
+    "salary": "От 80000 KGS в месяц",
+    "type": "Офис",
+    "country": "Бишкек",
+    "logo": "https://devkg.com/images/organizations/b29303dd43b3a49c84c3da2adcaf91ec.png",
+    "description": "<p><strong>Обязанности:</strong></p><ul><li>Разработка и поддержка backend-сервисов банковских и финтех-продуктов</li><li>Реализация и сопровождение микросервисов, работающих с финансовыми операциями</li><li>Интеграция с внешними сервисами, платёжными системами и внутренними API</li><li>Участие в код-ревью и обеспечении качества кода</li><li>Участие в планировании, оценке и декомпозиции задач</li><li>Анализ и устранение инцидентов, связанных с производительностью и стабильностью</li><li>Документирование архитектурных решений и функциональности</li></ul><p><strong>Требования:</strong></p><ul><li>Опыт разработки на Python 3.x в коммерческих проектах от 1 года</li><li>Понимание асинхронности, потоков и процессов</li><li>Знание ООП, принципов SOLID</li><li>Понимание паттернов проектирования</li><li>Опыт работы с фреймворками FastAPI или Flask</li><li>Понимание принципов работы WSGI / ASGI</li><li>Опыт работы с базами данных SQL / NoSQL, ORM</li><li>Опыт работы с брокерами сообщений (RabbitMQ, Kafka)</li><li>Понимание микросервисной архитектуры и принципов построения высоконагруженных распределённых систем</li><li>Базовые знания Linux (команды, процессы, логирование)</li><li>Опыт работы с Docker (создание образов, docker-compose)</li><li>Понимание специфики банковских и финтех-систем: (работа с транзакциями \\ целостность и консистентность данных \\ повышенные требования к безопасности и отказоустойчивости)</li></ul><p><strong>Условия:</strong></p><ul><li>Конкурентоспособная и стабильная заработная плата;</li><li>Хорошая команда, в которой все работают на результат;</li><li>Возможность карьерного роста и профессионального развития;</li><li>Опыт работы в крупном и стабильном Банке.</li></ul>",
+    "contacts": {
+      "telegram": "@Dilara2z",
+      "email": "dkydyrmaeva@bakai.kg"
+    },
+    "source_url": "https://devkg.com/ru/jobs/python-developer-middle-oao-bakay-bank-21399",
+    "parsed_at": "2026-03-15T01:23:42.862Z",
+    "created_at": ""
+  },
+  {
+    "id": "e18aeb18-1b97-46ca-9dba-896da3058339",
+    "title": "SQL Разработчик (Middle+) Отдела управления данными",
+    "company": "ОАО \"Бакай Банк\"",
+    "salary": "От 60000 KGS в месяц",
+    "type": "Офис",
+    "country": "Бишкек",
+    "logo": "https://devkg.com/images/organizations/b29303dd43b3a49c84c3da2adcaf91ec.png",
+    "description": "<p><strong>Обязанности:</strong></p><ul><li>Построение архитектуры решения систем корпоративного хранилища данных и отчетности;</li><li>Анализ и обработка больших массивов структурированных и неструктурированных данных;</li><li>Анализ бизнес-требований;</li><li>Разработка отчетов и SQL запросов по требованиям заказчиков;</li><li>Участие в разработке и поддержке DWH;</li><li>Интеграция источников данных с применением инструментов ETL/ELT.</li><li>Написание кода по регламенту стилистики кода</li></ul><p><strong>Требования:</strong></p><ul><li>Высшее техническое образование;</li><li>Опыт разработки в банковской сфере от 2х лет ;</li><li>Знание устройства индексов и типов данных;</li><li>Опыт в оптимизации сложных SQL запросов;</li><li>Опыт написания сложных хранимых процедур;</li><li>Понимание принципов работы реляционных СУБД;</li><li>Понимание принципов ACID;</li><li>Опыт работы с ETL/ELT инструментами</li><li>Будет плюсом: опыт работы с SSAS, SSIS \\ Linux (Ubuntu) \\ dbt</li></ul><p><strong>Условия:</strong></p><ul><li>Трудоустройство согласно ТК КР;</li><li>Конкурентная заработная плата + система бонусов;</li><li>Обучение за счет Банка;</li><li>Современный офис в центре города;</li><li>Корпоративные мероприятия (футбол, волейбольные команды, настольный теннис, шахматы) и туристические поездки за счет Банка;</li><li>Стабильная выплата заработной платы 2 раза в месяц;</li><li>Полный социальный пакет;</li><li>Хорошая команда, в которой все работают на результат;</li><li>Опыт работы в крупном и стабильном Банке.</li></ul>",
+    "contacts": {
+      "telegram": "@Dilara2z",
+      "email": "dkydyrmaeva@bakai.kg"
+    },
+    "source_url": "https://devkg.com/ru/jobs/sql-razrabotchik-middle-otdela-upravleniya-dannymi-oao-bakay-bank-21402",
+    "parsed_at": "2026-03-15T01:23:43.533Z",
+    "created_at": ""
+  },
+  {
+    "id": "7398a9cd-1463-4e8c-a64d-392845574896",
     "title": "Бизнес‑аналитик + ИИ тренер",
     "company": "OKURMEN",
     "salary": "40000 - 80000 KGS в месяц",
-    "type": "Офис / Бишкек",
+    "type": "Офис",
+    "country": "Бишкек",
     "logo": null,
     "description": "<p>📢 <strong>Ищем тренера на курс “Бизнес‑аналитик + ИИ”</strong></p><p> 📍 <strong>Адрес занятий:</strong> Филармония, Бишкек</p><p> 📅 <strong>Длительность курса:</strong> 3 месяца</p><p> 🕐 <strong>Занятия:</strong> 3 раза в неделю × 2 часа</p><p> 🗣 <strong>Язык обучения:</strong> кыргызский</p><p> 👥 <strong>Формат:</strong> очные занятия, дружный коллектив, тёплая атмосфера</p><p><br></p><p><strong>О курсе:</strong></p><p>Мы запускаем практико‑ориентированный курс с нуля по <strong>бизнес‑анализу и искусственному интеллекту (ИИ)</strong> — навыкам, которые сегодня крайне востребованы на рынке труда. Бизнес‑аналитика помогает компаниям находить точки роста и оптимизировать процессы, а ИИ становится неотъемлемым инструментом прогрессивного аналитика для работы с большими данными и автоматизации задач. </p><p><br></p><p><strong>Ищем тренера, который:</strong></p><p> 🌟 свободно говорит и преподаёт <strong>на кыргызском языке</strong>;</p><p> 📊 имеет практический опыт в <strong>бизнес‑анализе</strong> и/или применении <strong>ИИ в бизнес‑контексте</strong>;</p><p> 🧑‍🏫 умеет доступно объяснять сложные темы новичкам;</p><p> 🤝 располагает к себе, поддерживает дружелюбную атмосферу обучения;</p><p> 📌 готов работать в очном формате на Филармонии, Бишкек.</p><p><br></p><p><strong>Что предстоит делать:</strong></p><p> ✔ вести живые занятия 3 раза в неделю по 2 часа;</p><p> ✔ объяснять базовые и прикладные концепции бизнес‑анализа и ИИ;</p><p> ✔ проводить практические задания и кейсы;</p><p> ✔ вдохновлять и поддерживать студентов, шаг за шагом выводя их к уверенным навыкам.</p><p><br></p><p><strong>Мы предлагаем:</strong></p><p> ✨ работу в <strong>дружном коллективе</strong>;</p><p> 📚 интересную аудиторию и мотивацию студентов;</p><p> 🏢 уютное место обучения на Филармонии;</p><p> 💬 возможность внести вклад в развитие локального IT‑сообщества.</p><p><br></p><p>📩 <strong>Отклик:</strong></p><p> Отправьте своё резюме + краткое мотивационное письмо, где укажите:</p><p> ✔ ваш опыт в бизнес‑анализе и ИИ,</p><p> ✔ почему хотите стать тренером нашего курса,</p><p> ✔ примеры, как вы обучали или объясняли сложные темы другим.</p>",
     "contacts": {
       "telegram": "@aruna_study"
     },
     "source_url": "https://devkg.com/ru/jobs/biznes-analitik-ii-trener-okurmen-21529",
-    "parsed_at": "2026-03-14T12:45:26.174Z",
+    "parsed_at": "2026-03-15T01:23:44.093Z",
     "created_at": ""
   },
   {
-    "id": "7c52ce8d-7eb6-4fcd-9d17-e5ff78d4105a",
+    "id": "7d74ff51-bc7f-49df-aa38-43b0a00a2742",
     "title": "РОП",
     "company": "Тап КГ",
     "salary": "От 100000 KGS в месяц",
-    "type": "Офис / Бишкек",
+    "type": "Офис",
+    "country": "Бишкек",
     "logo": "https://devkg.com/images/organizations/01c1fd10b0e6c907ccac9617f18f6e07.png",
     "description": "<p><strong>Общее описание:</strong></p><p> Мы ищем менеджера по продажам / руководителя отдела продаж (РОП), который сможет развивать продажи, управлять командой и налаживать процессы на разных уровнях. В роли РОПа вы будете вести как команду продавцов, так и напрямую взаимодействовать с клиентами, вести ключевые сделки и участвовать в стратегическом развитии компании. Опыт работы с маркетплейсами, B2B/B2C продажами или IT-проектами будет преимуществом.</p><p><strong>Обязанности:</strong></p><ul><li>Планирование и контроль выполнения плана продаж</li><li>Управление командой менеджеров по продажам, наставничество, обучение</li><li>Ведение ключевых клиентов и крупных сделок</li><li>Анализ эффективности продаж, подготовка отчетности для руководства</li><li>Оптимизация процессов продаж и взаимодействия с клиентами</li><li>Участие в разработке стратегии выхода на новые рынки и сегменты</li><li>Взаимодействие с маркетинговой командой и другими подразделениями</li></ul><p><strong>Требования:</strong></p><ul><li>Опыт работы в продажах или на руководящей позиции (РОП)</li><li>Навыки ведения переговоров и презентаций</li><li>Опыт работы с разными каналами продаж, включая маркетплейсы</li><li>Умение анализировать показатели и строить стратегию продаж</li><li>Коммуникабельность, организованность, ответственность</li><li>Знание IT-сферы или онлайн-бизнеса будет преимуществом</li></ul><p><strong>Условия:</strong></p><ul><li>Возможность построить и развивать отдел продаж</li><li>Работа с командой и ключевыми клиентами разных уровней</li><li>Перспектива карьерного роста до руководителя отдела/директора</li><li>Дружная команда и прозрачные процессы</li></ul>",
     "contacts": {
       "email": "info@tap.kg"
     },
     "source_url": "https://devkg.com/ru/jobs/rop-tap-kg-21093",
-    "parsed_at": "2026-03-14T12:45:28.185Z",
+    "parsed_at": "2026-03-15T01:23:44.859Z",
     "created_at": ""
   },
   {
-    "id": "7bdcc024-9494-4126-83a8-7c13805556a5",
+    "id": "8e0e7316-755a-4858-9b58-1fdae7ae77dc",
     "title": "Аналитик данных - (Junior / Middle)",
     "company": "Upsell Group",
     "salary": "300 - 1000 USD в месяц",
-    "type": "Офис / Ош",
+    "type": "Офис",
+    "country": "Ош",
     "logo": null,
-    "description": "<p><strong>О нас</strong></p><p>Мы — команда, которая помогает кыргызским производителям продавать на зарубежных маркетплейсах. Работаем с данными каждый день: анализируем рынок, строим прогнозы, помогаем клиентам принимать решения на основе цифр, а не интуиции. Базируемся в Оше и растём — поэтому ищем людей, которые хотят расти вместе с нами.</p><p><br></p><p><strong>Кого мы ищем</strong></p><p>Аналитика данных, который умеет превращать сырые цифры в понятные выводы. Вы будете работать с реальными данными реального бизнеса — продажи, спрос, конкуренты, реклама на маркетплейсах. Не просто строить таблицы, а думать: что за этим стоит и что с этим делать.</p><p>Мы рассматриваем кандидатов уровня <strong>Junior и Middle</strong> — требования и условия отличаются, но суть работы одна.</p><p><br></p><p><strong>Что предстоит делать</strong></p><ul><li>Собирать, чистить и структурировать данные по продажам</li><li>Строить отчёты и дашборды, которые помогают клиентам принимать решения</li><li>Анализировать тренды: цены, спрос, конкуренты, рекламные показатели</li><li>Проводить конкурентный анализ ниш и категорий</li><li>Строить прогнозы продаж, модели ценообразования и оборачиваемости (Middle)</li><li>Создавать автоматизированные отчёты в Power BI, Looker Studio, Google Sheets</li><li>Консультировать команду и клиентов на основе данных</li><li>Участвовать в найме и менторстве коллег (Middle)</li></ul><p><br></p><p><strong>Что важно для нас</strong></p><ul><li>Опыт 1–2 года в аналитике данных или BI (для Middle) — или сильная база без опыта (для Junior)</li><li>Уверенные Excel / Google Sheets — обязательно для обоих уровней</li><li>Python (pandas, numpy) или Power BI / Looker Studio — обязательно для Middle</li><li>Умение переводить данные в понятные выводы для бизнеса, а не просто делать красивые графики</li><li>Готовность работать в Оше</li></ul><p><br></p><p><strong>Будет плюсом</strong></p><ul><li>Высокий балл ОРТ, олимпиадные победы по математике, информатике или экономике</li><li>Красный диплом или академические достижения в вузе</li><li>Опыт работы с e-commerce платформами (Wildberries, Ozon, Kaspi и др.)</li><li>Портфолио: дашборды, кейсы, личные или учебные проекты с данными</li><li>Знание Tableau, D3.js или других инструментов визуализации</li><li>Понимание статистики и базовых ML-методов</li><li>Опыт автоматизации отчётности</li></ul><p><br></p><p><strong>Условия</strong></p><ul><li>Работа в офисе в городе Ош (требуется релокация, если вы из другого города — поможем)</li><li>Офлайн формат — мы верим в силу командной работы плечом к плечу</li><li>Чёткий путь роста: Junior → Middle → Senior → Lead Analyst</li><li>Бюджет на обучение: курсы, книги, инструменты</li><li>Работа с реальными данными реального бизнеса — не учебные датасеты</li></ul><p><br></p><p><strong>Как откликнуться</strong></p><p>Напишите нам на <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"38504a784d484b5d545416535f\">[email&nbsp;protected]</a> и приложите:</p><ul><li>Ваше резюме (CV)</li><li>Примеры работ (дашборды, отчёты, GitHub, Kaggle — всё подойдёт)</li><li>Краткое описание самой интересной задачи с данными, которую вы решали</li></ul><p>Мы читаем все отклики и отвечаем каждому!</p>",
+    "description": "<p><strong>О нас</strong></p><p>Мы — команда, которая помогает кыргызским производителям продавать на зарубежных маркетплейсах. Работаем с данными каждый день: анализируем рынок, строим прогнозы, помогаем клиентам принимать решения на основе цифр, а не интуиции. Базируемся в Оше и растём — поэтому ищем людей, которые хотят расти вместе с нами.</p><p><br></p><p><strong>Кого мы ищем</strong></p><p>Аналитика данных, который умеет превращать сырые цифры в понятные выводы. Вы будете работать с реальными данными реального бизнеса — продажи, спрос, конкуренты, реклама на маркетплейсах. Не просто строить таблицы, а думать: что за этим стоит и что с этим делать.</p><p>Мы рассматриваем кандидатов уровня <strong>Junior и Middle</strong> — требования и условия отличаются, но суть работы одна.</p><p><br></p><p><strong>Что предстоит делать</strong></p><ul><li>Собирать, чистить и структурировать данные по продажам</li><li>Строить отчёты и дашборды, которые помогают клиентам принимать решения</li><li>Анализировать тренды: цены, спрос, конкуренты, рекламные показатели</li><li>Проводить конкурентный анализ ниш и категорий</li><li>Строить прогнозы продаж, модели ценообразования и оборачиваемости (Middle)</li><li>Создавать автоматизированные отчёты в Power BI, Looker Studio, Google Sheets</li><li>Консультировать команду и клиентов на основе данных</li><li>Участвовать в найме и менторстве коллег (Middle)</li></ul><p><br></p><p><strong>Что важно для нас</strong></p><ul><li>Опыт 1–2 года в аналитике данных или BI (для Middle) — или сильная база без опыта (для Junior)</li><li>Уверенные Excel / Google Sheets — обязательно для обоих уровней</li><li>Python (pandas, numpy) или Power BI / Looker Studio — обязательно для Middle</li><li>Умение переводить данные в понятные выводы для бизнеса, а не просто делать красивые графики</li><li>Готовность работать в Оше</li></ul><p><br></p><p><strong>Будет плюсом</strong></p><ul><li>Высокий балл ОРТ, олимпиадные победы по математике, информатике или экономике</li><li>Красный диплом или академические достижения в вузе</li><li>Опыт работы с e-commerce платформами (Wildberries, Ozon, Kaspi и др.)</li><li>Портфолио: дашборды, кейсы, личные или учебные проекты с данными</li><li>Знание Tableau, D3.js или других инструментов визуализации</li><li>Понимание статистики и базовых ML-методов</li><li>Опыт автоматизации отчётности</li></ul><p><br></p><p><strong>Условия</strong></p><ul><li>Работа в офисе в городе Ош (требуется релокация, если вы из другого города — поможем)</li><li>Офлайн формат — мы верим в силу командной работы плечом к плечу</li><li>Чёткий путь роста: Junior → Middle → Senior → Lead Analyst</li><li>Бюджет на обучение: курсы, книги, инструменты</li><li>Работа с реальными данными реального бизнеса — не учебные датасеты</li></ul><p><br></p><p><strong>Как откликнуться</strong></p><p>Напишите нам на <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"036b7143767370666f6f2d6864\">[email&nbsp;protected]</a> и приложите:</p><ul><li>Ваше резюме (CV)</li><li>Примеры работ (дашборды, отчёты, GitHub, Kaggle — всё подойдёт)</li><li>Краткое описание самой интересной задачи с данными, которую вы решали</li></ul><p>Мы читаем все отклики и отвечаем каждому!</p>",
     "contacts": {
       "email": "hr@upsell.kg"
     },
     "source_url": "https://devkg.com/ru/jobs/analitik-dannyh-junior-middle-upsell-group-21495",
-    "parsed_at": "2026-03-14T12:45:28.986Z",
+    "parsed_at": "2026-03-15T01:23:45.520Z",
     "created_at": ""
   },
   {
-    "id": "be94f2aa-d9f0-4154-8b8a-af608af9bc73",
+    "id": "50e9880f-d280-40a6-a6c5-5a8846f0c761",
     "title": "Prompt Engineer",
     "company": "Mad Devs",
     "salary": "2000 - 3500 USD в месяц",
     "type": "Удаленная работа",
+    "country": "",
     "logo": "https://devkg.com/images/organizations/c0814e899a66d41ede3aad818e921946.png",
     "description": "<p>We're seeking Prompt Engineer to join our team. This is your chance to apply your skills to a project with real-world impact.</p><p><br></p><p><strong>About Us</strong></p><p>Mad Devs is a full-stack team specializing in developing and administering large-scale IT products across diverse industries. Many of our products operate in Europe, the USA, and countries across Southeast Asia. We are passionate about tackling complex challenges and delivering innovative solutions that make a meaningful impact globally.</p><p><br></p><p><strong>Responsibilities:</strong></p><ul><li><strong>System Prompt Architecture:</strong> Design complex, structured system prompts. Use Chain-of-Thought and Few-Shot techniques to solve complex logic tasks (e.g., \"Diagnose this car issue based on the user's description\")</li><li><strong>Structured Generation (JSON):</strong> Engineer prompts that reliably output valid JSON for API integrations. You must ensure the model follows schema constraints 100% of the time</li><li><strong>Voice Persona Design:</strong> Control the agent's tone and pacing. Use instructions to influence output, making the agent sound empathetic, professional, or urgent as needed</li><li><strong>Jinja2 Integration:</strong> Embed dynamic data into prompts. You must write prompts that are robust enough to handle empty variables or unexpected data formats ({{ user_history }})</li><li><strong>Optimization:</strong> Continuously A/B test prompts to reduce hallucinations and improve conversion rates (e.g., \"Did the agent successfully book the meeting?\")</li></ul><p><br></p><p><strong>Requirements:</strong></p><ul><li><strong>Deep LLM Expertise:</strong> You know the difference between GPT-4 and Claude 3 Opus. You understand token limits, temperature, and context windows</li><li><strong>Technical Proficiency: </strong>You are comfortable working with JSON and Markdown. You can write basic Jinja2 templates</li><li><strong>Analytical Mindset: </strong>You don't just \"guess\" improvements; you analyze conversation logs to find the root cause of errors</li><li><strong>Linguistic Precision:</strong> Excellent command of English to catch subtle nuances in interaction</li><li><strong>Language: </strong>Russian (Native/Fluent) and English (B2+)</li><li><strong>Location:&nbsp;</strong>any, except Russia and Belarus</li></ul><p><br></p><p><strong>Why join us</strong></p><p>At Mad Devs, you'll join a passionate team dedicated to solving complex challenges and delivering innovative solutions. Our projects span Europe, the USA and South East Asia, giving you the opportunity to make a global impact. We value flexibility, remote working and professional development, ensuring you thrive in an inspiring environment. Join us in revolutionizing the legal industry with AI!</p>",
     "contacts": {
       "telegram": "@recruiter_maddevs"
     },
     "source_url": "https://devkg.com/ru/jobs/prompt-engineer-mad-devs-21274",
-    "parsed_at": "2026-03-14T12:45:29.815Z",
+    "parsed_at": "2026-03-15T01:23:46.175Z",
     "created_at": ""
   },
   {
-    "id": "dc3443cd-baee-43d8-b949-42c47c70687e",
+    "id": "20c557cd-3c01-40a3-b167-c605c0957e4e",
     "title": "AI Agent Developer",
     "company": "Mad Devs",
     "salary": "2000 - 3500 USD в месяц",
     "type": "Удаленная работа",
+    "country": "",
     "logo": "https://devkg.com/images/organizations/c0814e899a66d41ede3aad818e921946.png",
     "description": "<p>We're seeking AI Agent Developer to join our team. This is your chance to apply your skills to a project with real-world impact.</p><p><br></p><p><strong>About Us</strong></p><p>Mad Devs is a full-stack team specializing in developing and administering large-scale IT products across diverse industries. Many of our products operate in Europe, the USA, and countries across Southeast Asia. We are passionate about tackling complex challenges and delivering innovative solutions that make a meaningful impact globally.</p><p><br></p><p><strong>Responsibilities:</strong></p><ul><li><strong>Develop Agent Logic in NSL: </strong>You will write sophisticated logic using Jinja2. This involves creating complex programming logic, managing conversation state, and handling complex branching (e.g., \"If the user is angry AND the database shows a late delivery, trigger the 'Apology Protocol'\")</li><li><strong>Orchestration &amp; Integration:</strong> Design the data flow between the AI Agent and external tools (CRM systems, Google Calendar, booking systems, etc.). You will configure how the agent constructs JSON payloads and interprets API responses</li><li><strong>Skill Module Architecture:</strong> Build reusable \"Skills\" and modules that non-technical users can add to their agents. Your code must be robust, abstract, and highly configurable</li><li><strong>Debugging &amp; Optimization:</strong> Debug logic errors in conversation flows (e.g., why did the agent loop?) and optimize the system to ensure sub-500ms response times for voice interactions</li></ul><p><br></p><p><strong>Requirements:</strong></p><ul><li><strong>Algorithmic Thinking:</strong> You have a developer's mindset. You understand loops, recursion, variable scope, and state machines deeply</li><li><strong>Jinja2 Expertise (or similar):</strong> You are a master of templating logic. You know how to manipulate data structures inside a template without relying on external helper code</li><li><strong>Data Literacy:</strong> Fluent in JSON and JSONSchema. You can visualize complex nested data structures instantly</li><li><strong>Proprietary Tool Adaptability: </strong>You are excited, not intimidated, by the prospect of learning a new, proprietary language (NSL) and becoming a global expert in it</li><li><strong>Language:</strong> Russian (Native/Fluent) and English (B2+)</li></ul><p><br></p><p><strong>It will be a plus:</strong></p><ul><li>Background in <strong>Solutions Engineering</strong> or <strong>Technical Implementation</strong></li><li>Experience with \"Low-Code\" logic builders (n8n, Make) where logic is visual/configuration-based</li><li>Familiarity with Python</li></ul><p><br></p><p><strong>Why join us</strong></p><p>At Mad Devs, you'll join a passionate team dedicated to solving complex challenges and delivering innovative solutions. Our projects span Europe, the USA and South East Asia, giving you the opportunity to make a global impact. We value flexibility, remote working and professional development, ensuring you thrive in an inspiring environment. Join us in revolutionizing the legal industry with AI!</p>",
     "contacts": {
       "telegram": "@recruiter_maddevs"
     },
     "source_url": "https://devkg.com/ru/jobs/ai-agent-developer-mad-devs-21273",
-    "parsed_at": "2026-03-14T12:45:30.516Z",
+    "parsed_at": "2026-03-15T01:23:46.823Z",
     "created_at": ""
   },
   {
-    "id": "4c54bc4b-cc9f-492d-84cd-62a931e9ca1b",
+    "id": "00e0a6f1-41a8-4694-84d5-82d582973f45",
     "title": "Junior ML Engineer",
     "company": "Mad Devs",
     "salary": "800 - 1500 USD в месяц",
     "type": "Удаленная работа",
+    "country": "",
     "logo": "https://devkg.com/images/organizations/c0814e899a66d41ede3aad818e921946.png",
     "description": "<p>We're seeking junior+ level Machine Learning Engineer to join our team. This is your chance to apply your skills to a project with real-world impact.</p><p><br></p><p><strong>About Us</strong></p><p>Mad Devs is a full-stack team specializing in developing and administering large-scale IT products across diverse industries. Many of our products operate in Europe, the USA, and countries across Southeast Asia. We are passionate about tackling complex challenges and delivering innovative solutions that make a meaningful impact globally.</p><p><br></p><p><strong>Responsibilities:</strong></p><ul><li>Develop and implement machine learning algorithms</li><li>Transfer machine learning models from development to real-world application</li><li>Compare different approaches to solve complex business problems</li><li>Collaborate with customers to identify their problems and opportunities for solving them\\ using machine learning tools</li><li>Develop algorithms for recommendation and ranking systems</li><li>Develop intelligent assistants</li><li>Keep models and instructions for language models up to date</li></ul><p><br></p><p><strong>Our expectations:</strong></p><ul><li>Minimum 1,5+ year in startups or professional services firms</li><li>Familiarity with software development and delivery processes. Understanding of the key steps involved</li><li>Knowledge and experience in developing and tuning machine learning models for various tasks such as classification, regression, clustering, etc. Integration of off-the-shelf solutions</li><li>Experience working with big data and systems to process it</li><li>Know how to use data analysis to identify insights and patterns that can help solve business problems</li><li>Mathematical background</li><li>Knowledge of basic machine learning algorithms and metrics</li><li>Experience implementing machine learning models in a production environment</li><li>Experience working towards natural language processing (NLP)</li><li>Experience with large language models (LLM)</li><li>Experience developing agent systems based on popular frameworks (LangChain, LangGraph). Experience implementing multi-tool and multi-agent systems.</li><li>Customer negotiation skills to actively participate in identifying their needs and objectives</li><li>Ability to gather and analyze requirements and translate business requirements into technical specifications</li><li>Can generate clear and achievable goals for machine learning tasks/projects</li><li>Can conduct regular demos for customers and explain technical aspects and achievements in an accessible manner</li><li>B2 English level, fluent Russian&nbsp;</li><li>Tech stack: Python, SQL, PostgreSQL, Pandas, FastAPI/Flask/Django, Pydantic, SQLAlchemy, Sklearn, PyTorch, Transformers, Git, BitBucket, CI / CD, conflict resolution, Docker, OpenAI API, LangChain, LangGraph, LangSmith, Airflow, BigQuery</li></ul><p><br></p><p><strong>Why join us</strong></p><p>At Mad Devs, you'll join a passionate team dedicated to solving complex challenges and delivering innovative solutions. Our projects span Europe, the USA and South East Asia, giving you the opportunity to make a global impact. We value flexibility, remote working and professional development, ensuring you thrive in an inspiring environment. Join us in revolutionizing the legal industry with AI!</p>",
     "contacts": {
       "telegram": "@recruiter_maddevs"
     },
     "source_url": "https://devkg.com/ru/jobs/junior-ml-engineer-mad-devs-21459",
-    "parsed_at": "2026-03-14T12:45:31.200Z",
+    "parsed_at": "2026-03-15T01:23:47.463Z",
     "created_at": ""
   },
   {
-    "id": "85d8a875-9765-4b15-95a6-bfa62af5a2d4",
+    "id": "e71d866d-5c1a-4344-b8db-ec17d9739e2b",
     "title": "Sales Manager – Corporate Travel & Transportation",
     "company": "BookingLane",
     "salary": "1500 - 5000 USD в месяц",
     "type": "Удаленная работа",
+    "country": "",
     "logo": "https://devkg.com/images/organizations/2f0cb14e67efc59a8bd40c1f91ca1f33.png",
     "description": "<p>Bookinglane is a premium travel and transportation platform serving corporate clients, global events, and international partners. We are expanding our sales team and are looking for a driven, confident Sales Manager to communicate with corporate clients, close deals, and manage vendor relationships worldwide.</p><p><br></p><p>This is a full-time position for a highly motivated professional who thrives in a fast-paced, results-oriented environment.</p><p><br></p><p>Employment Details</p><p>• Full-time position</p><p>• 6 days per week</p><p>• Working hours: 8:00 AM to 5:00 PM PST</p><p>• Base salary plus performance-based bonus for closed deals</p><p><br></p><p>Key Responsibilities</p><p><br></p><p>• Communicate with corporate clients via phone, email, and virtual meetings</p><p>• Present Bookinglane’s premium transportation and corporate travel solutions</p><p>• Close new corporate accounts and negotiate commercial terms</p><p>• Follow up with vendors and affiliates to secure service coverage</p><p>• Manage inbound and outbound sales opportunities</p><p>• Build and maintain long-term client relationships</p><p>• Coordinate with operations to ensure smooth service delivery</p><p>• Maintain CRM records and sales pipeline updates</p><p><br></p><p>Our Clients</p><p><br></p><p>We work with leading global brands and corporate accounts, including Amazon, Google, Meta, Nike, and other multinational companies.</p><p><br></p><p>Requirements</p><p><br></p><p>• Excellent spoken and written English (mandatory)</p><p>• Strong sales, negotiation, and closing skills</p><p>• Confident speaking with corporate decision-makers</p><p>• Organized, proactive, and target-driven</p><p>• Ability to manage multiple deals simultaneously</p><p>• Experience in corporate travel, transportation, hospitality, or B2B sales is preferred</p><p><br></p><p>Travel Opportunities</p><p><br></p><p>• Potential business travel to Europe, the United Kingdom, the USA, and Dubai</p><p>• Participation in meetings, conferences, and partner visits</p><p><br></p><p>What We Offer</p><p><br></p><p>• Competitive base salary</p><p>• Performance-based bonus structure</p><p>• Opportunity to work with top global corporate brands</p><p>• Career growth in an international premium travel company</p><p>• Exposure to global business markets and high-level clients</p>",
     "contacts": {
       "email": "support@bookinglane.com"
     },
     "source_url": "https://devkg.com/ru/jobs/sales-manager-corporate-travel-transportation-bookinglane-21261",
-    "parsed_at": "2026-03-14T12:45:31.902Z",
+    "parsed_at": "2026-03-15T01:23:48.098Z",
     "created_at": ""
   },
   {
-    "id": "cdab3d40-84fd-4b76-ba4c-9f5d94cc3ec9",
+    "id": "a5e74fd8-7ac2-4917-a315-f138bad4066e",
     "title": "QA Automation Engineer",
     "company": "Genesis Studio",
     "salary": "От 30000 KGS в месяц",
-    "type": "Офис / Бишкек",
+    "type": "Офис",
+    "country": "Бишкек",
     "logo": null,
     "description": "<p>🧪 Вакансия: QA Automation Engineer</p><p><br></p><p>💰 Заработная плата: от 30 000 сом / месяц</p><p>📍 Формат работы: Удалённо / Офис (по договорённости)</p><p>🕒 График: Полная занятость</p><p>📈 Опыт работы: от 1 года</p><p><br></p><p>🚀 О компании</p><p><br></p><p>Мы занимаемся разработкой веб-сервисов, мобильных приложений и IT-решений для различных проектов. В нашу команду требуется QA Automation Engineer, который поможет улучшить качество продуктов и выстроить эффективное автоматизированное тестирование.</p><p><br></p><p>🔧 Обязанности:</p><p><br></p><p>Разработка и поддержка автоматизированных тестов</p><p><br></p><p>Тестирование веб- и мобильных приложений</p><p><br></p><p>Подготовка тест-кейсов и тестовой документации</p><p><br></p><p>Поиск, анализ и документирование багов</p><p><br></p><p>Работа с CI/CD для запуска автотестов</p><p><br></p><p>Участие в улучшении процессов тестирования в команде</p><p><br></p><p>Взаимодействие с разработчиками и менеджерами проекта</p><p><br></p><p>🧠 Требования:</p><p><br></p><p>Опыт работы QA Automation от 1 года</p><p><br></p><p>Понимание процессов SDLC и STLC</p><p><br></p><p>Опыт написания автотестов (Selenium / Cypress / Playwright / Appium или аналог)</p><p><br></p><p>Базовые знания одного из языков программирования: Python / JavaScript / Java</p><p><br></p><p>Опыт работы с API-тестированием (Postman / Swagger)</p><p><br></p><p>Навыки работы с Git</p><p><br></p><p>Внимательность к деталям и аналитическое мышление</p><p><br></p><p>✅ Будет плюсом:</p><p><br></p><p>Опыт работы с Docker / CI/CD</p><p><br></p><p>Понимание нагрузочного тестирования</p><p><br></p><p>Опыт тестирования мобильных приложений</p><p><br></p><p>Знание SQL и работа с базами данных</p><p><br></p><p>🎁 Мы предлагаем:</p><p><br></p><p>Зарплату от 30 000 сом / месяц</p><p><br></p><p>Интересные проекты и реальные задачи</p><p><br></p><p>Возможность профессионального роста</p><p><br></p><p>Дружную команду и поддержку разработчиков</p><p><br></p><p>Гибкий формат работы</p><p><br></p><p>📩 Как откликнуться:</p><p>Отправьте:</p><p><br></p><p>Кратко о своём опыте</p><p><br></p><p>Резюме</p><p><br></p><p>Примеры автотестов или проектов (GitHub, если есть)</p><p><br></p><p>Контакт для связи</p>",
     "contacts": {
@@ -118,30 +177,32 @@
       "phone": "+996 502 375 939"
     },
     "source_url": "https://devkg.com/ru/jobs/qa-automation-engineer-genesis-studio-21458",
-    "parsed_at": "2026-03-14T12:45:33.468Z",
+    "parsed_at": "2026-03-15T01:23:48.746Z",
     "created_at": ""
   },
   {
-    "id": "65be39a8-dcb0-4caa-b50c-c0f12d3203c2",
+    "id": "4e7c1d61-bbb0-479f-bc31-ef537668ad60",
     "title": "Middle Manual QA",
     "company": "Grand Systems",
     "salary": "60000 - 80000 KGS в месяц",
-    "type": "Офис / Бишкек",
+    "type": "Офис",
+    "country": "Бишкек",
     "logo": "https://devkg.com/images/organizations/75fe2f82a1e4807568ae501f29556093.png",
     "description": "<p>Мы ищем <strong>сильного Manual QA</strong>, который умеет не просто проверять задачи, а <strong>разбираться в системе, находить слабые места и помогать команде делать продукт надежнее</strong>.</p><p>У нас небольшая команда, поэтому QA участвует не только в тестировании задач, но и в <strong>обсуждении требований, улучшении процессов и предотвращении проблем ещё до разработки</strong>.</p><p><br></p>Что нужно будет делать<ul><li>проводить <strong>глубокое функциональное и интеграционное тестирование</strong> веб-приложений и API</li><li>анализировать требования и <strong>находить потенциальные проблемы до разработки</strong></li><li>писать <strong>тест-кейсы, чек-листы и тестовые сценарии</strong></li><li>проводить <strong>регрессионное тестирование</strong> перед релизами</li><li>тестировать <strong>интеграции между сервисами</strong></li><li>работать с <strong>логами, API и данными</strong>, чтобы находить причины багов</li><li>заводить качественные <strong>bug reports с четким воспроизведением и анализом проблемы</strong></li><li>участвовать в улучшении <strong>процессов тестирования и качества продукта</strong></li></ul><p><br></p><p><strong>Требования</strong></p><ul><li><strong>2+ года опыта Manual QA</strong></li><li>уверенный опыт тестирования <strong>web-приложений и REST API</strong></li><li>опыт работы с <strong>Postman / Swagger / DevTools</strong></li><li>понимание <strong>клиент-серверной архитектуры и принципов работы API</strong></li><li>опыт работы с <strong>Jira / YouTrack / аналогичными системами</strong></li><li>умение <strong>структурировать тестирование и покрывать функциональность тестами</strong></li><li>внимательность к деталям и <strong>сильные аналитические навыки</strong></li></ul><p><br></p>Будет большим плюсом<ul><li>опыт тестирования <strong>сложных бизнес-процессов или интеграционных систем</strong></li><li>базовые знания <strong>SQL</strong></li><li>понимание <strong>CI/CD процессов</strong></li><li>понимание принципов <strong>автотестирования</strong></li></ul><p><br></p>Что вы получите<ul><li>возможность <strong>реально влиять на качество продукта</strong>, а не просто закрывать задачи</li><li>работу в <strong>небольшой команде, где ценится мнение QA</strong></li><li>интересные задачи и сложные кейсы</li><li>адекватные процессы без бюрократии</li><li>своевременные выплаты <strong>ЗП без задержек</strong></li></ul>",
     "contacts": {
       "telegram": "@lilith017"
     },
     "source_url": "https://devkg.com/ru/jobs/middle-manual-qa-grand-systems-21528",
-    "parsed_at": "2026-03-14T12:45:34.497Z",
+    "parsed_at": "2026-03-15T01:23:49.389Z",
     "created_at": ""
   },
   {
-    "id": "79980af7-a740-49a2-87f6-e3b5518bef4a",
+    "id": "d3d561fb-b48b-4532-9c5c-36a6c92dc2d9",
     "title": "1с-Программист",
     "company": "GooDoo",
     "salary": "50000 - 100000 KGS в месяц",
-    "type": "Офис / Bishkek",
+    "type": "Офис",
+    "country": "Bishkek",
     "logo": "https://devkg.com/images/organizations/93dce6f172c1815b10ea0101cc4fe8d1.png",
     "description": "<p>Формат: офис / гибрид</p><p><strong>Занятость:</strong>&nbsp;полная, 5/2, 8 часов</p><p><strong>Опыт:</strong>&nbsp;3+ лет</p><p><strong>Выплаты:</strong>&nbsp;2 раза в месяц</p><p><strong>GooDoo</strong>&nbsp;- IT-компания из Кыргызстана, работающая в сфере автоматизации бизнеса, внедрения и сопровождения 1С, сервисного обслуживания ККМ и сложных интеграций.</p><p>Мы масштабируем продукты и инфраструктуру. Нам нужен сильный&nbsp;<strong>1С-разработчик</strong>, который умеет работать с реальным продом, нагрузкой и ответственностью.</p><p>🔥 Задачи</p><p>Поддержка и развитие конфигураций 1С на боевых проектах.</p><p>Разработка и доработка функционала в типовых и нетиповых конфигурациях.</p><p>Оптимизация запросов, ускорение работы баз.</p><p>Исправление багов, работа с инцидентами продакшена.</p><p>Участие в проектировании архитектуры решений на базе 1С.</p><p>Взаимодействие с IT и смежными командами.</p><p>Подготовка систем к росту нагрузки и масштабированию.</p><p>🧠 Требования (обязательные)</p><p>Коммерческий опыт разработки на 1С от 2 лет.</p><p>Уверенное знание платформы&nbsp;<strong>1С:Предприятие 8.x</strong>.</p><p>Опыт доработки типовых конфигураций (Бухгалтерия, УТ, Розница и др.).</p><p>Уверенная работа с запросами и оптимизацией производительности.</p><p>Понимание клиент-серверной архитектуры 1С.</p><p>Опыт работы с обменами (HTTP, web-сервисы, XML/JSON).</p><p>Понимание прав доступа и безопасности в 1С.</p><p>Опыт поддержки продакшена и разбора инцидентов.</p><p>Умение работать самостоятельно и отвечать за результат.</p><p>➕ Будет плюсом</p><p>Опыт работы с ККМ, ОФД, фискализацией.</p><p>Опыт интеграций с платёжными системами.</p><p>Знание SQL на уровне анализа запросов.</p><p>Опыт высоконагруженных баз 1С.</p><p>💼 Условия</p><p>Зарплата — по реальному скиллу</p><p>Живые проекты, не учебка</p><p>Быстрое принятие решений</p><p>Возможность влиять на архитектуру</p><p>Рост вместе с компанией</p><p>🎯 Кого мы ищем</p><p>Человека, который:</p><p>Видит узкие места в конфигурации и исправляет их.</p><p>Думает о последствиях своих решений в продакшене.</p><p>Не ломает типовые механизмы без необходимости.</p><p>Работает на результат.</p><p>Не боится сложных интеграций, дедлайнов и ответственности.</p><p><strong>Если вы хотите делать реальные продукты на 1С, а не просто править формы — вам к нам.</strong></p>",
     "contacts": {
@@ -150,159 +211,119 @@
       "phone": "+996 703 486 027"
     },
     "source_url": "https://devkg.com/ru/jobs/1s-programmist-goodoo-21415",
-    "parsed_at": "2026-03-14T12:45:35.241Z",
+    "parsed_at": "2026-03-15T01:23:50.057Z",
     "created_at": ""
   },
   {
-    "id": "fa40611a-d5a9-4a05-ae82-79652fdfb4c0",
+    "id": "a1c0a335-b3f9-45a8-8874-f1f401f004db",
     "title": "Technical Project Manager",
     "company": "Jobutify",
     "salary": "1500 - 2000 USD в месяц",
-    "type": "Офис / Ош",
+    "type": "Офис",
+    "country": "Ош",
     "logo": null,
-    "description": "<p><strong>О нас</strong></p><p>Мы — IT-команда из выпускников ведущих университетов с опытом работы в топовых компаниях. Сейчас базируемся в Кыргызстане и занимаемся автоматизацией традиционного бизнеса с помощью AI. Мы создаём системы, которые реально решают проблемы бизнеса, а не просто выглядят красиво на презентации.</p><p><br></p><p><strong>Почему эта роль — не обычный PM</strong></p><p>Забудьте про бесконечные статус-митинги и цветные гантт-чарты. Здесь вы — человек, который превращает хаос в продукт.</p><p>Ваш понедельник может выглядеть так:</p><ul><li>Утром вы на фабрике с директором — разбираетесь, почему учёт сырья каждый месяц \"не сходится\"</li><li>Днём вы с командой разработки — объясняете, что бизнесу нужна не \"кнопка автоматизации\", а система контроля остатков с уведомлениями</li><li>Вечером вы пишете спецификацию, которую разработчик откроет завтра и скажет: \"Наконец-то, всё понятно\"</li></ul><p><br></p><p>Мы ищем человека, который <strong>думает продуктом</strong>, а не задачами. Который видит за словами клиента реальную проблему, а за техническим решением — результат для бизнеса.</p><p><br></p><p><strong>Что предстоит делать</strong></p><ul><li>Погружаться в бизнес клиентов: приходить на производство, наблюдать процессы, задавать неудобные вопросы — чтобы найти настоящие точки боли, а не те, что клиент озвучил первыми</li><li>Переводить между двумя мирами: от \"нам нужно, чтобы всё работало быстрее\" до конкретных user stories и технических требований, которые команда берёт в спринт</li><li>Выстраивать доверие с клиентами — вы их главный контакт, голос компании, и человек, который отвечает за то, что обещания превращаются в результат</li><li>Управлять ожиданиями и приоритетами — уметь сказать \"нет\" или \"не сейчас\" так, чтобы клиент сказал \"спасибо\"</li><li>Вести проект от первого звонка до запуска и дальше — сбор требований, координация спринтов, приёмка, обратная связь, итерации</li><li>Документировать так, чтобы через полгода любой новый человек в команде мог разобраться в проекте за один день</li></ul><p><br></p><p><strong>Кого мы ищем</strong></p><ul><li>Опыт 3+ лет на стыке бизнеса и технологий — как бизнес-аналитик, project manager, product owner или в похожей роли</li><li>Вы умеете слушать. По-настоящему. Не ждать паузу, чтобы вставить свою мысль, а слышать, что клиент имеет в виду, даже когда он сам этого не понимает</li><li>Вы пишете чёткие документы — техзадания, user stories, спецификации, которые не вызывают вопросов \"а что тут имелось в виду?\"</li><li>Вы понимаете, как устроены технологии: что такое API, как работает backend и frontend, зачем нужна база данных — не на уровне разработчика, а на уровне осмысленного разговора с ним</li><li>Вы не боитесь сложных разговоров — сказать клиенту про сдвиг сроков или объяснить команде, почему приоритеты поменялись</li><li>Русский и кыргызский языки свободно</li></ul><p><br></p><p><strong>Будет серьёзным плюсом</strong></p><ul><li>Опыт работы с Agile/Scrum в реальных проектах (не только сертификат на стене)</li><li>Понимание специфики традиционного бизнеса — производство, торговля, логистика. Вы знаете, что такое \"сезон\" и почему в январе у некоторых клиентов всё горит</li><li>Опыт работы с CRM, ERP или системами автоматизации</li><li>Английский язык</li><li>Опыт работы с инструментами типа Jira, Linear, Notion</li><li>Навык чтения технических диаграмм и схем архитектуры</li></ul><p><br></p><p><strong>Что мы предлагаем</strong></p><ul><li>Работа в офисе в Оше, плечом к плечу с сильной командой — много живого общения, минимум бюрократии</li><li>Конкурентная зарплата — обсуждаем индивидуально, ценим опыт</li><li>Разнообразные проекты: сегодня кондитерская фабрика, завтра маркетплейс — скучно не будет</li><li>Реальное влияние на продукт и процессы — ваше мнение здесь не \"принимается к сведению\", а определяет направление</li><li>Понятный трек роста: от PM до Head of Product / Head of Operations — в зависимости от ваших сильных сторон</li></ul><p><br></p><p><strong>Как откликнуться</strong></p><p>Напишите нам на <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"2b4144495e5f424d526b5e5b584e474705404c\">[email&nbsp;protected]</a> и приложите:</p><ul><li>Ваше резюме (CV)</li><li>Краткое описание проекта, где вы были связующим звеном между бизнесом и разработкой — что было сложного, и как вы это решили</li><li>Ответ на вопрос: <em>\"Клиент говорит: 'Мне нужна кнопка, которая делает всё автоматически'. Что вы спросите первым делом?\"</em></li></ul><p><br></p><p><strong>P.S.</strong> Если вы понимаете, что \"сделайте как у конкурентов, только лучше\" — это не требование, а начало разговора, и умеете переводить \"срочно нужно было вчера\" в реальные сроки — мы вас ждём! 😊</p>",
+    "description": "<p><strong>О нас</strong></p><p>Мы — IT-команда из выпускников ведущих университетов с опытом работы в топовых компаниях. Сейчас базируемся в Кыргызстане и занимаемся автоматизацией традиционного бизнеса с помощью AI. Мы создаём системы, которые реально решают проблемы бизнеса, а не просто выглядят красиво на презентации.</p><p><br></p><p><strong>Почему эта роль — не обычный PM</strong></p><p>Забудьте про бесконечные статус-митинги и цветные гантт-чарты. Здесь вы — человек, который превращает хаос в продукт.</p><p>Ваш понедельник может выглядеть так:</p><ul><li>Утром вы на фабрике с директором — разбираетесь, почему учёт сырья каждый месяц \"не сходится\"</li><li>Днём вы с командой разработки — объясняете, что бизнесу нужна не \"кнопка автоматизации\", а система контроля остатков с уведомлениями</li><li>Вечером вы пишете спецификацию, которую разработчик откроет завтра и скажет: \"Наконец-то, всё понятно\"</li></ul><p><br></p><p>Мы ищем человека, который <strong>думает продуктом</strong>, а не задачами. Который видит за словами клиента реальную проблему, а за техническим решением — результат для бизнеса.</p><p><br></p><p><strong>Что предстоит делать</strong></p><ul><li>Погружаться в бизнес клиентов: приходить на производство, наблюдать процессы, задавать неудобные вопросы — чтобы найти настоящие точки боли, а не те, что клиент озвучил первыми</li><li>Переводить между двумя мирами: от \"нам нужно, чтобы всё работало быстрее\" до конкретных user stories и технических требований, которые команда берёт в спринт</li><li>Выстраивать доверие с клиентами — вы их главный контакт, голос компании, и человек, который отвечает за то, что обещания превращаются в результат</li><li>Управлять ожиданиями и приоритетами — уметь сказать \"нет\" или \"не сейчас\" так, чтобы клиент сказал \"спасибо\"</li><li>Вести проект от первого звонка до запуска и дальше — сбор требований, координация спринтов, приёмка, обратная связь, итерации</li><li>Документировать так, чтобы через полгода любой новый человек в команде мог разобраться в проекте за один день</li></ul><p><br></p><p><strong>Кого мы ищем</strong></p><ul><li>Опыт 3+ лет на стыке бизнеса и технологий — как бизнес-аналитик, project manager, product owner или в похожей роли</li><li>Вы умеете слушать. По-настоящему. Не ждать паузу, чтобы вставить свою мысль, а слышать, что клиент имеет в виду, даже когда он сам этого не понимает</li><li>Вы пишете чёткие документы — техзадания, user stories, спецификации, которые не вызывают вопросов \"а что тут имелось в виду?\"</li><li>Вы понимаете, как устроены технологии: что такое API, как работает backend и frontend, зачем нужна база данных — не на уровне разработчика, а на уровне осмысленного разговора с ним</li><li>Вы не боитесь сложных разговоров — сказать клиенту про сдвиг сроков или объяснить команде, почему приоритеты поменялись</li><li>Русский и кыргызский языки свободно</li></ul><p><br></p><p><strong>Будет серьёзным плюсом</strong></p><ul><li>Опыт работы с Agile/Scrum в реальных проектах (не только сертификат на стене)</li><li>Понимание специфики традиционного бизнеса — производство, торговля, логистика. Вы знаете, что такое \"сезон\" и почему в январе у некоторых клиентов всё горит</li><li>Опыт работы с CRM, ERP или системами автоматизации</li><li>Английский язык</li><li>Опыт работы с инструментами типа Jira, Linear, Notion</li><li>Навык чтения технических диаграмм и схем архитектуры</li></ul><p><br></p><p><strong>Что мы предлагаем</strong></p><ul><li>Работа в офисе в Оше, плечом к плечу с сильной командой — много живого общения, минимум бюрократии</li><li>Конкурентная зарплата — обсуждаем индивидуально, ценим опыт</li><li>Разнообразные проекты: сегодня кондитерская фабрика, завтра маркетплейс — скучно не будет</li><li>Реальное влияние на продукт и процессы — ваше мнение здесь не \"принимается к сведению\", а определяет направление</li><li>Понятный трек роста: от PM до Head of Product / Head of Operations — в зависимости от ваших сильных сторон</li></ul><p><br></p><p><strong>Как откликнуться</strong></p><p>Напишите нам на <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"a9c3c6cbdcddc0cfd0e9dcd9daccc5c587c2ce\">[email&nbsp;protected]</a> и приложите:</p><ul><li>Ваше резюме (CV)</li><li>Краткое описание проекта, где вы были связующим звеном между бизнесом и разработкой — что было сложного, и как вы это решили</li><li>Ответ на вопрос: <em>\"Клиент говорит: 'Мне нужна кнопка, которая делает всё автоматически'. Что вы спросите первым делом?\"</em></li></ul><p><br></p><p><strong>P.S.</strong> Если вы понимаете, что \"сделайте как у конкурентов, только лучше\" — это не требование, а начало разговора, и умеете переводить \"срочно нужно было вчера\" в реальные сроки — мы вас ждём! 😊</p>",
     "contacts": {
       "email": "jobutify@upsell.kg"
     },
     "source_url": "https://devkg.com/ru/jobs/technical-project-manager-jobutify-21221",
-    "parsed_at": "2026-03-14T12:45:35.922Z",
+    "parsed_at": "2026-03-15T01:23:51.147Z",
     "created_at": ""
   },
   {
-    "id": "f301852c-95fc-46a4-ab6f-2bf40b3bb170",
+    "id": "ebb855c4-9ad0-4bf0-9398-b146c3afa500",
     "title": "Full-Stack разработчик Python + React (Middle/Senior)",
     "company": "Jobutify",
     "salary": "1500 - 3000 USD в месяц",
-    "type": "Офис / Ош",
+    "type": "Офис",
+    "country": "Ош",
     "logo": null,
-    "description": "<p><strong>О нас</strong></p><p>Мы — IT-команда из выпускников ведущих университетов с опытом работы в топовых компаниях. Сейчас базируемся в Кыргызстане и занимаемся автоматизацией традиционного бизнеса с помощью AI. Мы создаём системы, которые берут рутинные процессы на себя и делаем так, чтобы управлять ими было просто и приятно.</p><p><br></p><p><strong>Кого мы ищем</strong></p><p>Full-Stack разработчика, который умеет и \"мозг\" системы построить, и \"лицо\" для неё сделать. Вы будете создавать AI-решения от начала до конца — от API и баз данных до интерфейсов, с которыми пользователи работают каждый день. Не просто писать код, а думать о системе целиком: архитектура, производительность, UX.</p><p><br></p><p><strong>Что предстоит делать</strong></p><ul><li>Разрабатывать backend и frontend для AI-систем автоматизации — от складского учёта до аналитических платформ</li><li>Проектировать и реализовывать API для интеграции с внешними сервисами и системами клиентов</li><li>Создавать веб-интерфейсы: дашборды с аналитикой, графиками и визуализацией данных</li><li>Работать с базами данных, оптимизировать запросы, проектировать архитектуру хранения данных</li><li>Интегрировать AI/ML модели в production-ready решения</li><li>Делать так, чтобы сложные бизнес-процессы выглядели просто и понятно для пользователя</li><li>Настраивать CI/CD, мониторинг и логирование</li><li>Писать чистый, поддерживаемый код с тестами</li></ul><p><br></p><p><strong>Что важно для нас</strong></p><ul><li>Опыт 3+ года (для middle) или 5+ лет (для senior) в full-stack разработке</li><li>Уверенное знание Python и современных фреймворков: Django, FastAPI, Flask или подобных</li><li>Опыт с JavaScript/TypeScript и React (Vue.js или Angular тоже рассмотрим)</li><li>Опыт работы с реляционными БД (PostgreSQL, MySQL) и понимание принципов проектирования баз данных</li><li>Знание REST API, понимание микросервисной архитектуры</li><li>Понимание HTML5, CSS3, адаптивной вёрстки</li><li>Опыт с Git, Docker, Linux</li><li>Умение думать со стороны пользователя и со стороны системы одновременно</li></ul><p><br></p><p><strong>Будет плюсом</strong></p><ul><li>Опыт интеграции AI/ML моделей в backend</li><li>Знание async Python (asyncio, aiohttp)</li><li>Опыт с TypeScript в production</li><li>Знание state management (Redux, Zustand, Pinia)</li><li>Опыт с очередями задач (Celery, RabbitMQ, Redis)</li><li>Опыт работы с библиотеками визуализации данных (Chart.js, D3.js, Recharts)</li><li>Опыт с Next.js или другими SSR фреймворками</li><li>Понимание принципов безопасности и accessibility (a11y)</li><li>Опыт оптимизации производительности под высокие нагрузки</li><li>Умение разбираться в чужом коде и рефакторить legacy</li></ul><p><br></p><p><strong>Условия</strong></p><ul><li>Работа в офисе в городе Ош (требуется релокация, если вы из другого города)</li><li>Офлайн формат — мы верим в силу командной работы плечом к плечу</li><li>Конкурентная зарплата, обсуждается индивидуально</li><li>Влияние на выбор технологий и архитектурные решения</li><li>Работа над реальными продуктами, которые используют живые бизнесы</li><li>Современный стек технологий и интересные технические вызовы</li></ul><p><br></p><p><strong>Как откликнуться</strong></p><p>Напишите нам на <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"13797c7166677a756a53666360767f7f3d7874\">[email&nbsp;protected]</a> и приложите:</p><ul><li>Ваше резюме (CV)</li><li>Ссылки на ваши работы (GitHub, GitLab, живые проекты)</li><li>Краткое описание самого сложного технического челленджа, который вы решили (backend, frontend или оба — нам интересно всё)</li></ul><p><br></p><p><strong>P.S.</strong> Если вы знаете разницу между sync и async, понимаете что === надёжнее ==, для вас O(n²) — это повод оптимизировать, а \"centered div\" — разминка перед завтраком — мы точно найдём общий язык 😉🎨</p>",
+    "description": "<p><strong>О нас</strong></p><p>Мы — IT-команда из выпускников ведущих университетов с опытом работы в топовых компаниях. Сейчас базируемся в Кыргызстане и занимаемся автоматизацией традиционного бизнеса с помощью AI. Мы создаём системы, которые берут рутинные процессы на себя и делаем так, чтобы управлять ими было просто и приятно.</p><p><br></p><p><strong>Кого мы ищем</strong></p><p>Full-Stack разработчика, который умеет и \"мозг\" системы построить, и \"лицо\" для неё сделать. Вы будете создавать AI-решения от начала до конца — от API и баз данных до интерфейсов, с которыми пользователи работают каждый день. Не просто писать код, а думать о системе целиком: архитектура, производительность, UX.</p><p><br></p><p><strong>Что предстоит делать</strong></p><ul><li>Разрабатывать backend и frontend для AI-систем автоматизации — от складского учёта до аналитических платформ</li><li>Проектировать и реализовывать API для интеграции с внешними сервисами и системами клиентов</li><li>Создавать веб-интерфейсы: дашборды с аналитикой, графиками и визуализацией данных</li><li>Работать с базами данных, оптимизировать запросы, проектировать архитектуру хранения данных</li><li>Интегрировать AI/ML модели в production-ready решения</li><li>Делать так, чтобы сложные бизнес-процессы выглядели просто и понятно для пользователя</li><li>Настраивать CI/CD, мониторинг и логирование</li><li>Писать чистый, поддерживаемый код с тестами</li></ul><p><br></p><p><strong>Что важно для нас</strong></p><ul><li>Опыт 3+ года (для middle) или 5+ лет (для senior) в full-stack разработке</li><li>Уверенное знание Python и современных фреймворков: Django, FastAPI, Flask или подобных</li><li>Опыт с JavaScript/TypeScript и React (Vue.js или Angular тоже рассмотрим)</li><li>Опыт работы с реляционными БД (PostgreSQL, MySQL) и понимание принципов проектирования баз данных</li><li>Знание REST API, понимание микросервисной архитектуры</li><li>Понимание HTML5, CSS3, адаптивной вёрстки</li><li>Опыт с Git, Docker, Linux</li><li>Умение думать со стороны пользователя и со стороны системы одновременно</li></ul><p><br></p><p><strong>Будет плюсом</strong></p><ul><li>Опыт интеграции AI/ML моделей в backend</li><li>Знание async Python (asyncio, aiohttp)</li><li>Опыт с TypeScript в production</li><li>Знание state management (Redux, Zustand, Pinia)</li><li>Опыт с очередями задач (Celery, RabbitMQ, Redis)</li><li>Опыт работы с библиотеками визуализации данных (Chart.js, D3.js, Recharts)</li><li>Опыт с Next.js или другими SSR фреймворками</li><li>Понимание принципов безопасности и accessibility (a11y)</li><li>Опыт оптимизации производительности под высокие нагрузки</li><li>Умение разбираться в чужом коде и рефакторить legacy</li></ul><p><br></p><p><strong>Условия</strong></p><ul><li>Работа в офисе в городе Ош (требуется релокация, если вы из другого города)</li><li>Офлайн формат — мы верим в силу командной работы плечом к плечу</li><li>Конкурентная зарплата, обсуждается индивидуально</li><li>Влияние на выбор технологий и архитектурные решения</li><li>Работа над реальными продуктами, которые используют живые бизнесы</li><li>Современный стек технологий и интересные технические вызовы</li></ul><p><br></p><p><strong>Как откликнуться</strong></p><p>Напишите нам на <a href=\"/cdn-cgi/l/email-protection\" class=\"__cf_email__\" data-cfemail=\"e48e8b8691908d829da4919497818888ca8f83\">[email&nbsp;protected]</a> и приложите:</p><ul><li>Ваше резюме (CV)</li><li>Ссылки на ваши работы (GitHub, GitLab, живые проекты)</li><li>Краткое описание самого сложного технического челленджа, который вы решили (backend, frontend или оба — нам интересно всё)</li></ul><p><br></p><p><strong>P.S.</strong> Если вы знаете разницу между sync и async, понимаете что === надёжнее ==, для вас O(n²) — это повод оптимизировать, а \"centered div\" — разминка перед завтраком — мы точно найдём общий язык 😉🎨</p>",
     "contacts": {
       "email": "jobutify@upsell.kg"
     },
     "source_url": "https://devkg.com/ru/jobs/full-stack-razrabotchik-python-react-middle-senior-jobutify-21220",
-    "parsed_at": "2026-03-14T12:45:36.653Z",
+    "parsed_at": "2026-03-15T01:23:51.981Z",
     "created_at": ""
   },
   {
-    "id": "7814e5e7-f3d8-45fe-a625-10d9f2228833",
+    "id": "b1fe946d-c321-4ec7-a726-6e0486cfc94e",
     "title": "Middle+ / Senior Fullstack Developer",
     "company": "Zeon IT Hub",
     "salary": "150000 - 250000 KGS в месяц",
-    "type": "Офис / Бишкек",
+    "type": "Офис",
+    "country": "Бишкек",
     "logo": "https://devkg.com/images/organizations/26d9027aae669e752d94fcaa33639bf0.png",
     "description": "<p>&nbsp;ZeonIT Recruiting ищет ключевого инженера для нашего клиента финтех-компании, разрабатывающей аналитическую экосистему для глобального рынка цифровых активов.</p><p><br></p><p>⚠️ Уровень: Middle+ / Senior (от 4-х лет коммерческого опыта).</p><p><strong><em><u>Стажировки и позиции уровня Junior не предусмотрены.</u></em></strong></p><p><br></p><p><strong>О проекте</strong></p><p>Мы создаем высокотехнологичное веб-приложение для мониторинга, управления и глубокой аналитики распределенных активов.&nbsp;</p><p>Нам нужен разработчик, который усилит Frontend-направление, но при этом будет готов поддерживать и развивать API-логику на Python.</p><p><br></p><p><strong>Стек и баланс задач (70% / 30%)</strong></p><p><strong>Frontend</strong> (70%): React, TypeScript, Next.js. Фокус на производительности интерфейсов с большим количеством динамических данных.</p><p><strong>Backend</strong> (30%): Python. Работа с эндпоинтами, оптимизация передачи данных и интеграция с БД.</p><p><br></p><p><strong>Ключевые задачи:</strong></p><p>• Переход к собственной высокопроизводительной дизайн-системе (компоненты, дизайн-токены, Storybook).</p><p>• Разработка интерфейсов для визуализации потоковых данных (WebSockets), работа со сложными графиками и интерактивными таблицами.</p><p>• Реализация фич «end-to-end» — от проектирования схемы данных на бэкенде до финальной полировки UX.</p><p>• Оптимизация рендеринга, минимизация времени загрузки (Code-splitting, Lazy-loading) и аудит производительности.</p><p>• Участие в архитектурных сессиях, проведение Code Review и написание тестов (Jest, Cypress).</p><p><br></p><p><strong>Обязательные требования:</strong></p><p>• 4+ года коммерческого опыта с JS/TS и React. Глубокое знание Hooks, Context API и стейт-менеджеров (Redux Toolkit / Zustand).</p><p>• Умение эффективно использовать<strong> AI-инструменты</strong> (GitHub Copilot, Cursor и др.) для ускорения разработки, написания тестов и оптимизации рутинных задач.</p><p>• Коммерческий опыт работы с Python, Node.JS, GO и понимание принципов асинхронного программирования.</p><p>• Уверенная работа с WebSockets, REST и GraphQL.</p><p>• Базовые навыки работы с Docker и понимание процессов CI/CD.</p><p><strong>Что мы предлагаем:</strong></p><p>• Работа над сложной платформой с реальными техническими вызовами и глобальной аудиторией.</p><p>•&nbsp;Современные технологии без поддержки старого legacy-кода.</p><p>• Возможность напрямую влиять на архитектурные решения и выбор инструментов.</p>",
     "contacts": {
       "telegram": "@ryanbigigz"
     },
     "source_url": "https://devkg.com/ru/jobs/middle-senior-fullstack-developer-zeon-it-hub-21527",
-    "parsed_at": "2026-03-14T12:45:37.386Z",
+    "parsed_at": "2026-03-15T01:23:52.631Z",
     "created_at": ""
   },
   {
-    "id": "f87c8daa-7e24-4165-96fd-732feeee30bd",
+    "id": "c6abb0ac-1e1c-48ec-9a31-c7ecdabfe16c",
     "title": "Digital Marketing | Lead/Middle",
     "company": "Zeon IT Hub",
     "salary": "2000 - 4000 USD в месяц",
-    "type": "Офис / Бишкек",
+    "type": "Офис",
+    "country": "Бишкек",
     "logo": "https://devkg.com/images/organizations/26d9027aae669e752d94fcaa33639bf0.png",
     "description": "<p><strong><em>\"При отклике просим детально ознакомиться с вакансией.\"</em></strong></p><p><br></p><p>Ищем Digital Маркетолога, способного разработать и реализовать маркетинговую и коммуникационную стратегию для нашего <strong>Web3/Fintech</strong> продукта. Вы будете отвечать за весь цикл роста (Growth) на международных рынках. Если у вас есть опыт масштабирования продуктов СНГ или Азии мы ждем вас<strong>.</strong></p><p><br></p><p><strong>КЛЮЧЕВАЯ ЦЕЛЬ ВАШЕЙ РОЛИ:</strong></p><p>Разработка комплексной маркетинговой стратегии (Go-to-Market, Brand, Performance, Content)</p><p><strong>О КОМПАНИИ И ПРОЕКТЕ:</strong></p><p>Мы IT-компания более чем с 10 летним опытом в разработке, сейчас создаем прибыльный и глобальный продукт в сфере&nbsp;<strong>Fintech | Web3</strong>&nbsp;В этой роли вам будет предоставлена полная автономия в принятии стратегических решений и управлении бюджетом.</p><p><strong>ЧЕМ ПРЕДСТОИТ ЗАНИМАТЬСЯ:</strong></p><ul><li>Создание и защита комплексной стратегии продвижения (каналы, бюджеты, позиционирование, сегментация аудитории) для выхода и масштабирования на ключевых международных рынках.</li><li>Выбор, запуск и оптимизация всех каналов привлечения (Paid Media, SEO/ASO, Influencer Marketing, Community Building) с фокусом на CPL, CAC и LTV.</li><li>Построение коммуникационной стратегии, включая работу с Tier-1 крипто- и Fintech-медиа, а также управление PR-активностями на ключевых территориях.</li><li>В перспективе – формирование и развитие внутренней команды маркетинга, наем и управление подрядчиками.</li><li>Установление ключевых маркетинговых метрик (KPI) и регулярный анализ их эффективности, принятие решений на основе данных.</li></ul><p><strong>КЛЮЧЕВЫЕ ТРЕБОВАНИЯ:</strong></p><ul><li>Успешный опыт разработки и реализации&nbsp;<strong>маркетинговых стратегий</strong>&nbsp;для&nbsp;<strong>международном рынке</strong>&nbsp;(минимум 2-5 лет).</li><li>Умение работать с большими маркетинговыми бюджетами и достигать измеримых результатов по ключевым метрикам роста (RoAS, LTV/CAC, Conversion Rate).</li><li>Разговорный&nbsp;<strong>английский</strong>&nbsp;(уровень Upper-Intermediate) для ведения переговоров, работы с международными партнерами и поездок на конференции.</li><li>Глубокое понимание Product Marketing, Growth Hacking методологий и Data-Driven подхода.</li></ul><p><strong>ЧТО МЫ ПРЕДЛАГАЕМ:</strong></p><ul><li><strong>Конкурентоспособный оклад + KPI</strong>&nbsp;привязанный к достижению стратегических целей по росту продукта.</li><li>Прямое взаимодействие с С-level, полная ответственность за стратегию продвижения и возможность влиять на продукт.</li><li>Регулярные&nbsp;<strong>командировки</strong>&nbsp;на топовые международные конференции и мероприятия (<strong>Дубай, Сингапур, Гонконг, и т.д</strong>) с целью налаживания партнерств.</li><li>Работа в офисе в центре города (гибридный формат, обсуждается индивидуально)</li></ul>",
     "contacts": {
       "telegram": "@Zeon_Adis"
     },
     "source_url": "https://devkg.com/ru/jobs/digital-marketing-lead-middle-zeon-it-hub-21526",
-    "parsed_at": "2026-03-14T12:45:38.356Z",
+    "parsed_at": "2026-03-15T01:23:53.276Z",
     "created_at": ""
   },
   {
-    "id": "b749a116-e241-4fda-b7aa-e2da38550ddd",
+    "id": "e51e78ed-76ef-4020-b0b3-5f497c5b0955",
     "title": "Бизнес-аналитик",
     "company": "ОАО \"Дос-Кредобанк\"",
     "salary": "От 40000 KGS в месяц",
-    "type": "Офис / Бишкек",
+    "type": "Офис",
+    "country": "Бишкек",
     "logo": "https://devkg.com/images/organizations/02367ff9c04475f81d7672b3d68c4d7e.png",
     "description": "<p>Команда Дос-Кредобанка в поисках бизнес-аналитика с опытом работы от 1 года!</p><p><br></p><p><strong>Обязанности</strong></p><ul><li>Сбор и анализ бизнес-требований.</li><li>Анализ требований банка и разработка функциональных и нефункциональных требований к продуктам.</li><li>Участие в проектах цифровизации внутренних процессов банка.</li><li>Взаимодействие с бизнесом и IT-командой.</li><li>Формирование технических заданий и постановка задач разработчикам.</li><li>Документирование и участие в тестировании API.</li></ul><p><br></p><p><strong>Требования</strong></p><ul><li>Высшее экономическое или техническое образование.</li><li>Опыт работы бизнес/системным аналитиком от 1 года.</li><li>Навыки работы с большими объемами информации и структурирования требований.</li><li>Грамотная устная и письменная речь.</li><li>Умение работать в команде и в условиях многозадачности</li><li>Знание IT-инструментов (SQL, Postman) и умение читать логи будет преимуществом.</li><li>Коммуникабельность, аналитический склад ума, умение управлять командой, ответственность и надежность.</li><li>Ключевые компетенции</li><li>Управление требованиями.</li><li>Бизнес-анализ и моделирование.</li><li>Работа с данными и инструментами.</li></ul><p><br></p><p><strong>Условия</strong></p><ul><li>Официальное трудоустройство по ТК КР.</li><li>Удобный офис в центре города, график с 08:30 до 17:30.</li><li>Дополнительный оплачиваемый выходной день каждый квартал.</li><li>Обучение и развитие за счёт банка.</li><li>Корпоративные мероприятия и турпоездки за счёт банка.</li><li>Возможности карьерного роста и профессионального развития.</li></ul><p><br></p><p><strong>Хотите расти и развиваться вместе с нами? Отправляйте резюме и присоединяйтесь к нашей команде DCB!</strong></p>",
     "contacts": {
       "telegram": "@kamillavaleng"
     },
     "source_url": "https://devkg.com/ru/jobs/biznes-analitik-oao-dos-kredobank-21322",
-    "parsed_at": "2026-03-14T12:45:39.052Z",
+    "parsed_at": "2026-03-15T01:23:53.909Z",
     "created_at": ""
   },
   {
-    "id": "ee6d0017-2693-4e17-b579-c00f12f3820b",
+    "id": "6e5be115-527e-489d-a27a-138d301c43a8",
     "title": "Senior Java Developer",
     "company": "ЗАО ЭкоИсламикБанк",
     "salary": "От 200000 KGS в месяц",
-    "type": "Офис / Бишкек",
+    "type": "Офис",
+    "country": "Бишкек",
     "logo": "https://devkg.com/images/organizations/50cc21dacefe0968282584ce8700eab7.png",
     "description": "<p><strong>Обязанности:</strong></p><ul><li>Разработка высокопроизводительных, масштабируемых и надежных приложений на Java spring boot 3.x.x;</li><li>Участие в архитектурном проектировании и рефакторинге кода;</li><li>Разработка и поддержка архитектуры проекта;</li><li>Code Review и оптимизация кода;</li><li>Менторство и обучение младших разработчиков;</li><li>Взаимодействие с продакт-менеджерами и другими стейкхолдерами;</li><li>Сотрудничество с DevOps для автоматизации процессов CI/CD.</li></ul><p><br></p><p><strong>Требования:</strong></p><ul><li>Опыт работы с Java spring boot;</li><li>Опыт и понимание работы с фреймворками Spring Boot, Spring Cloud, Hibernate, Security и т.п.;</li><li>Отличное понимание и опыт работы с микросервисной архитектурой;</li><li>Знание работы с RESTful API и GraphQL;</li><li>Опыт работы с реляционными и NoSQL базами данных (PostgreSQL, MongoDB,Redis,ELK, будет плюсом ORACLE);</li><li>Знание контейнеризации и оркестрации (Docker, Kubernetes)</li><li>Опыт работы с системами очередей сообщений (Kafka, RabbitMQ);</li><li>Опыт работы с CI/CD (Jenkins, GitLab CI, Travis CI);</li><li>Знание Android SDK и экосистемы Android (приветствуется)</li></ul><p><br></p><p><strong>Будет плюсом:</strong></p><ul><li>Знание фронтенд технологий (React Native, Flutter) — большой плюс;</li><li>Опыт работы с облачными платформами (AWS, GCP);</li><li>Чтение других языков Code Review (Go,Python,C#, JS).</li></ul><p><br></p><p><strong>Условия:</strong></p><ul><li>Заработная плата обсуждается индивидуально по итогам собеседования;</li><li>Полная занятость;</li><li>График 5/2;</li><li>Уютный офис;</li><li>Работа в команде опытных специалистов.</li></ul>",
     "contacts": {
       "telegram": "@Founder_2W"
     },
     "source_url": "https://devkg.com/ru/jobs/senior-java-developer-zao-ekoislamikbank-20807",
-    "parsed_at": "2026-03-14T12:45:40.198Z",
+    "parsed_at": "2026-03-15T01:23:54.708Z",
     "created_at": ""
   },
   {
-    "id": "8b97906b-4831-4192-98ca-c57191d38201",
+    "id": "f6941c7b-eb12-4a2c-ba1a-5e1aba4e1559",
     "title": "Бизнес аналитик",
     "company": "ЗАО ЭкоИсламикБанк",
     "salary": "От 100000 KGS в месяц",
-    "type": "Офис / Бишкек",
+    "type": "Офис",
+    "country": "Бишкек",
     "logo": "https://devkg.com/images/organizations/50cc21dacefe0968282584ce8700eab7.png",
     "description": "<p>Наш банк активно развивает свою мобильную платформу и в поиске опытного бизнес-аналитика для присоединения к команде. Вы будете играть ключевую роль в проектах по цифровизации внутренних процессов и разработке новых функций для нашего мобильного приложения.</p><p><br></p><p><strong>Обязанности:</strong></p><ul><li>Анализ требований банка и разработка функциональных и нефункциональных требований к продуктам.</li><li>Разработка и формализация требований к ПО: сбор, структурирование и анализ бизнес-требований.</li><li>Анализ процессов Е2Е.</li><li>Понимание потребностей бизнеса и разработка стратегий для их удовлетворения.</li><li>Исследование текущих процессов, формирование видения изменений.</li><li>Участие в проектах цифровизации внутренних процессов банка.</li><li>Взаимодействие с разработчиками, тестировщиками и другими стейкхолдерами.</li><li>Подготовка аналитических материалов, отчетов и презентаций.</li><li>Построение и анализ бизнес-процессов.</li><li>Поиск и расшифровка узких мест, предложение оптимальных решений.</li><li>Документирование процесса формирования продукта.</li><li>Измерение ключевых метрик.</li><li>Формирование ТЗ.</li><li>Постановка задач разработчикам.</li><li>Тестирование доработок.(знать Postman)</li><li>Организация и проведение совещаний, встреч, обсуждений.</li><li>Организация вывода проектов в промышленную эксплуатацию.</li></ul><p><br></p><p><strong>Квалификационные требования:</strong></p><ul><li>Опыт работы бизнес-аналитиком/аналитиком от 2х лет в банковской сфере для уровня middle, остальные рассматриваем при собеседование.</li><li>Умение систематизировать и описывать бизнес-процессы.</li><li>Понимание принципов Agile, Waterfall.</li><li>Знание нотации IDEF0, UML, EPC, BPMN (camunda).</li><li>Уверенное владение инструментами Jira, Confluence, Microsoft Office, Trello, Miro, Figma и т.п.</li><li><strong>Навыки работы с SQL и базами данных.</strong></li><li><strong>Знание методологий для проведения бизнес-анализа, таких как SWOT, PESTLE.</strong></li><li>Умение взаимодействовать с техническими командами и понимание основ программирования.</li></ul><p>Образование:</p><ul><li>Высшее, экономическое или техническое образование.</li></ul><p><br></p><p><strong>Дополнительные требования:</strong></p><ul><li>Свободное владение Excel, Word, Visio, Project.</li><li>Высокий профессионализм и аналитические способности.</li><li>Знание нормативной базы Национального Банка в области регулирования банковской деятельности и запуска инициатив.</li><li>Навыки бизнес-анализа, умение строить карты CJM и бизнес-кейсы.</li><li>Умение понимать и составлять UML-диаграммы бизнес-процессов и знание основ нотации BPMN.</li><li>Знание и опыт работы по гибким методологиям реализации ПО (AGILE, SCRUM, KANBAN).</li><li>Опыт проведения совещаний, встреч, обсуждений.</li></ul><p><br></p><p><strong>Мы предлагаем:</strong></p><ul><li>Конкурентоспособная заработная плата.</li><li>Профессиональное развитие</li><li>Современный офис и дружный коллектив.</li><li>Заработная плата обсуждается индивидуально по итогам собеседования.</li><li>Полная занятость.</li><li>График 5/2.</li></ul>",
     "contacts": {
       "telegram": "@Founder_2W"
     },
     "source_url": "https://devkg.com/ru/jobs/biznes-analitik-zao-ekoislamikbank-20809",
-    "parsed_at": "2026-03-14T12:45:41.246Z",
-    "created_at": ""
-  },
-  {
-    "id": "e0d672f6-049b-468d-9d16-7d97397702eb",
-    "title": "Руководитель отдела развития и сопровождения АБС",
-    "company": "ЗАО ЭкоИсламикБанк",
-    "salary": "От 160000 KGS в месяц",
-    "type": "Офис / Бишкек",
-    "logo": "https://devkg.com/images/organizations/50cc21dacefe0968282584ce8700eab7.png",
-    "description": "<p>Ищем опытного руководителя, который возглавит команду разработки, будет отвечать за поддержку и развитие АБС банка, создание новых продуктов и доработок на&nbsp;<strong>PL/SQL</strong>&nbsp;и&nbsp;<strong>Oracle APEX</strong>, а также обеспечит эффективную работу команды из 5 разработчиков.</p><p><br></p><p><strong>Чем предстоит заниматься:</strong></p><p>— Руководить отделом разработки: распределение задач, контроль сроков, повышение эффективности команды.</p><p>— Обеспечивать поддержку и стабильную работу текущей банковской АБС.</p><p>— Руководить разработкой новых модулей и продуктов банка.</p><p>— Выполнять и курировать доработки на&nbsp;<strong>PL/SQL</strong>,&nbsp;<strong>Oracle APEX</strong>, участвовать в архитектурных решениях.</p><p>— Организовывать взаимодействие со смежными подразделениями: бизнес, инфраструктура, безопасность.</p><p>— Контролировать качество разработки, проводить код-ревью, улучшать процессы.</p><p>— Участвовать в планировании, оценке задач и развитии технических решений.</p><p><br></p><p><strong>Ожидания от кандидата:</strong></p><p>— Опыт руководства командой разработки (от 3 человек).</p><p>— Уверенные навыки&nbsp;<em>PL/SQL</em>, опыт работы с&nbsp;<em>Oracle Database</em>, знание&nbsp;<em>Oracle APEX</em>&nbsp;будет преимуществом.</p><p>— Понимание принципов разработки высоконагруженных систем и банковского ПО.</p><p>— Опыт в постановке задач, контроле исполнения, управлении приоритетами.</p><p>— Навыки проектирования архитектуры решений и принятия технических решений.</p><p>— Понимание жизненного цикла разработки, умение выстраивать процессы и повышать качество.</p><p><br></p><p><strong>Условия:</strong></p><p>— Команда из 5 разработчиков — нужно будет возглавить и развивать.</p><p>— Конкурентная заработная плата (обсуждается индивидуально).</p><p>— График 5/2.</p><p>— Работа в стабильном банке, участие в развитии ключевых внутренних систем.</p><p>— Удобный офис.</p>",
-    "contacts": {
-      "telegram": "@Founder_2W"
-    },
-    "source_url": "https://devkg.com/ru/jobs/rukovoditel-otdela-razvitiya-i-soprovozhdeniya-abs-zao-ekoislamikbank-20808",
-    "parsed_at": "2026-03-14T12:45:42.069Z",
-    "created_at": ""
-  },
-  {
-    "id": "04fbb4d2-dad6-40e0-b5a4-122fe4341ebc",
-    "title": "PL/SQL developer",
-    "company": "ЗАО ЭкоИсламикБанк",
-    "salary": "От 160000 KGS в месяц",
-    "type": "Офис / Бишкек",
-    "logo": "https://devkg.com/images/organizations/50cc21dacefe0968282584ce8700eab7.png",
-    "description": "<p><strong>Чем предстоит заниматься:</strong></p><p>• Разработка новых и сопровождение существующих модулей на Oracle PL/SQL (пакеты, процедуры, функции, триггеры)</p><p>• Оптимизация SQL-запросов и PL/SQL-кода (анализ производительности, устранение узких мест, работа с планами выполнения)</p><p>• Участие в проектировании архитектуры решений и логики взаимодействия с базами данных</p><p>• Подготовка технической и пользовательской документации по разработанным решениям</p><p>• Взаимодействие с бизнес-аналитиками, архитекторами, QA и другими участниками команды</p><p><br></p><p><strong>Требования:&nbsp;</strong></p><p>•&nbsp;&nbsp;Образование: техническое, ИТ/Информатика</p><p>•&nbsp;&nbsp;Опыт работы с Oracle PL/SQL от 3 лет</p><p>•&nbsp;&nbsp;Уверенные навыки SQL/PL SQL, опыт разработки пакетов, функций, процедур</p><p>•&nbsp;&nbsp;Опыт профилирования, оптимизации запросов и скриптов</p><p>•&nbsp;&nbsp;Знание Linux, Git, web сервисов (REST/SOAP), CI/CD (Jenkins)</p><p>•&nbsp;&nbsp;English: чтение технической документации</p><p>•&nbsp;&nbsp;Сертификаты Oracle PL/SQL – приветствуются</p><p><br></p><p><strong>Условия:</strong></p><p>• Заработная плата обсуждается индивидуально по итогам собеседования;</p><p>• Полная занятость;</p><p>• График 5/2;</p><p>• Уютный офис;</p><p>• Работа в команде опытных специалистов.</p>",
-    "contacts": {
-      "telegram": "@Founder_2W"
-    },
-    "source_url": "https://devkg.com/ru/jobs/pl-sql-developer-zao-ekoislamikbank-20806",
-    "parsed_at": "2026-03-14T12:45:42.879Z",
-    "created_at": ""
-  },
-  {
-    "id": "02d352f5-9a47-4fed-b2c6-5b7cebf4c7c2",
-    "title": "QA Engineer",
-    "company": "C-Technology",
-    "salary": "От 35000 KGS в месяц",
-    "type": "Офис / Бишкек",
-    "logo": "https://devkg.com/images/organizations/62d2ccf013695abceb1c52a8e1cc63d9.png",
-    "description": "<p><strong>Обязанности:</strong></p><p><br></p><p>• Осуществление контроля качества разрабатываемых продуктов, а также выявление и анализ ошибок и проблем, возникающих у пользователей при работе с программными продуктами.</p><p><br></p><p>• Анализ данных, которые получены в процессе исследования продукта, классификация и обнаружение ошибок с последующим занесением их в базу данных.</p><p><br></p><p>• Поиск ошибок в работе ПО с последующим контролем их ликвидации совместно с командой разработки.</p><p><br></p><p>• Составление специальных отчетов о фиксированных результатах после проведения испытания.</p><p><br></p><p>• Готовность проводить ручное тестирование.</p><p><br></p><p><strong>Основные требования:</strong></p><p><br></p><p>• Отличное знание теории (основы, методы и виды тестирования) и умение применять их на практике</p><p><br></p><p>• Навыки по написанию тест-кейсов, тест-планов, чек-листов</p><p><br></p><p>• Опыт работы с баг-трекинговыми системами</p><p><br></p><p>• Опыт ручного тестирования функционала ПО по тест-кейсам</p><p><br></p><p>• Опыт тестирования WEB и мобильных приложений (Android, IOS)</p><p><br></p><p>• Базовые навыки в Postman, SoapUI (API тестирование)</p><p><br></p><p>• Базовые знания SQL / PLSql, умение написать простой запрос</p><p><br></p><p>• Понимание жизненного цикла разработки ПО</p><p><br></p><p>• Четкая, грамотная, устная и письменная речь</p><p><br></p><p>• Умение составлять и поддерживать техническую документацию</p><p><br></p><p>• Желание обучаться новому</p><p><br></p><p><strong>Будет плюсом:</strong></p><p><br></p><p>• Опыт в проведении нагрузочного тестирования</p><p><br></p><p>• Опыт автоматизации WEB и мобильных приложений (Android, IOS)</p><p><br></p><p>• Опыт работы с финансовыми продуктами</p><p><br></p><p>• Знание HTML / CSS / JS</p><p><br></p><p>• Умение читать логи</p><p><br></p><p>• Знание одного из ООП языков программирования</p><p><br></p><p>Для кандидатов, у которых есть опыт работы в Банках или Fintech проектах будет большим плюсом.</p><p><br></p><p><strong>Условия:</strong></p><p><br></p><p>• Полный рабочий день с 9:00 до 18:00 (выходной: суббота, воскресенье)</p><p><br></p><p>• Социальный пакет согласно ТК КР</p><p><br></p><p>• Офис в центре г. Бишкек</p><p><br></p><p>• Испытательный срок 3 месяца</p>",
-    "contacts": {
-      "telegram": "@Ctechkg",
-      "email": "hr@ctechnology.kg",
-      "phone": "+996 505 709 083"
-    },
-    "source_url": "https://devkg.com/ru/jobs/qa-engineer-c-technology-21525",
-    "parsed_at": "2026-03-14T12:45:43.621Z",
+    "parsed_at": "2026-03-15T01:23:55.381Z",
     "created_at": ""
   }
 ]
